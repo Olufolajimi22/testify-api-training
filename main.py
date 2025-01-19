@@ -1,4 +1,2 @@
-﻿[source,python]
-----
-print("Hello, World!")
-----
+﻿print("Hello  World")
+print("Good night")
