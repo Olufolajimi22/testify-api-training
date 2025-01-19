@@ -3,7 +3,7 @@ name: Test Workflow
 on:
   push:
     branches:
-      - main  # Change this if you want to target another branch
+      - test
 
 jobs:
   test:
@@ -24,4 +24,4 @@ jobs:
           pip install -r main.py.txt
 
       - name: Run Python script
-        run: python main.py.txt  # Update this line if your script is named differently
+        run: python main.py.txt  
