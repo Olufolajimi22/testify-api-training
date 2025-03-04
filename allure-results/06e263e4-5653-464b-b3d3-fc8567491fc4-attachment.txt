@@ -1,0 +1,6 @@
+{
+  "org_id": "<integer>",
+  "type": "<string>",
+  "rel_owner_org_id": "<integer>",
+  "rel_linked_org_id": "<integer>"
+}

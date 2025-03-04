@@ -1,0 +1,11 @@
+{
+  "name": "<string>",
+  "add_time": "<string>",
+  "owner_id": "<integer>",
+  "label": "<integer>",
+  "label_ids": [
+    "<integer>",
+    "<integer>"
+  ],
+  "visible_to": "<string>"
+}

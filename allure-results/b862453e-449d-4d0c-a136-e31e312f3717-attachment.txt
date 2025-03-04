@@ -1,0 +1,9 @@
+{
+  "subscription_url": "<string>",
+  "event_action": "<string>",
+  "event_object": "<string>",
+  "user_id": "<integer>",
+  "http_auth_user": "<string>",
+  "http_auth_password": "<string>",
+  "version": "1.0"
+}

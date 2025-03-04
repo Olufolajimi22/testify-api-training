@@ -1,0 +1,37 @@
+{
+  "name": "<string>",
+  "owner_id": "<integer>",
+  "org_id": "<integer>",
+  "email": [
+    {
+      "value": "<string>",
+      "primary": "<boolean>",
+      "label": "<string>"
+    },
+    {
+      "value": "<string>",
+      "primary": "<boolean>",
+      "label": "<string>"
+    }
+  ],
+  "phone": [
+    {
+      "value": "<string>",
+      "primary": "<boolean>",
+      "label": "<string>"
+    },
+    {
+      "value": "<string>",
+      "primary": "<boolean>",
+      "label": "<string>"
+    }
+  ],
+  "label": "<integer>",
+  "label_ids": [
+    "<integer>",
+    "<integer>"
+  ],
+  "visible_to": "<string>",
+  "marketing_status": "<string>",
+  "add_time": "<string>"
+}

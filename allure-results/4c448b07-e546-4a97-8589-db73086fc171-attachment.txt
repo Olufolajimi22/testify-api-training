@@ -1,0 +1,10 @@
+{
+  "effective_date": "<date>",
+  "description": "<string>",
+  "cycle_amount": "<integer>",
+  "payments": [
+    "<object>",
+    "<object>"
+  ],
+  "update_deal_value": "<boolean>"
+}

@@ -1,0 +1,4 @@
+{
+  "conditions": "<object>",
+  "name": "<string>"
+}

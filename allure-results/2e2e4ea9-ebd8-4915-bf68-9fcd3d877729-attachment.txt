@@ -1,0 +1,9 @@
+{
+  "field_type": "<string>",
+  "name": "<string>",
+  "options": [
+    "<object>",
+    "<object>"
+  ],
+  "add_visible_flag": true
+}

@@ -1,0 +1,20 @@
+{
+  "title": "<string>",
+  "owner_id": "<integer>",
+  "label_ids": [
+    "<uuid>",
+    "<uuid>"
+  ],
+  "person_id": "<integer>",
+  "organization_id": "<integer>",
+  "value": {
+    "amount": "<number>",
+    "currency": "<string>"
+  },
+  "expected_close_date": "<date>",
+  "visible_to": "<string>",
+  "was_seen": "<boolean>",
+  "origin_id": "<string>",
+  "channel": "<integer>",
+  "channel_id": "<string>"
+}

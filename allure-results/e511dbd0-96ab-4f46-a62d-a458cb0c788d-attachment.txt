@@ -1,0 +1,7 @@
+{
+  "payments": [
+    "<object>",
+    "<object>"
+  ],
+  "update_deal_value": "<boolean>"
+}

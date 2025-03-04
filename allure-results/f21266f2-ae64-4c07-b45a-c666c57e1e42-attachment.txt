@@ -1,0 +1,9 @@
+{
+  "email": "kola@mail.com",
+  "access": [
+    {
+      "app": "sales"
+    }
+  ],
+  "active_flag": true
+}

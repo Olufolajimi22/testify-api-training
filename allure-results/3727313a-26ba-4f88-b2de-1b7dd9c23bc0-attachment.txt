@@ -1,0 +1,17 @@
+{
+  "name": "<string>",
+  "code": "<string>",
+  "description": "<string>",
+  "unit": "<string>",
+  "tax": 0,
+  "active_flag": true,
+  "selectable": true,
+  "visible_to": "<string>",
+  "owner_id": "<integer>",
+  "prices": [
+    "<object>",
+    "<object>"
+  ],
+  "billing_frequency": "<string>",
+  "billing_frequency_cycles": "<integer>"
+}

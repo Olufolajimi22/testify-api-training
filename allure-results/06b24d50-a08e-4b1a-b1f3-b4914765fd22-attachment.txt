@@ -1,0 +1,6 @@
+{
+  "name": "<string>",
+  "deal_probability": "<number>",
+  "order_nr": "<integer>",
+  "active": "<number>"
+}

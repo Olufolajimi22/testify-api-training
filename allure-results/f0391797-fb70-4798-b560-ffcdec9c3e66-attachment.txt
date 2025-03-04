@@ -1,0 +1,11 @@
+{
+  "name": "<string>",
+  "description": "<string>",
+  "manager_id": "<integer>",
+  "users": [
+    "<integer>",
+    "<integer>"
+  ],
+  "active_flag": "<number>",
+  "deleted_flag": "<number>"
+}

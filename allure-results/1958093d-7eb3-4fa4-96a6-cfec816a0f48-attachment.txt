@@ -1,0 +1,7 @@
+{
+  "name": "<string>",
+  "pipeline_id": "<integer>",
+  "deal_probability": "<integer>",
+  "rotten_flag": "<boolean>",
+  "rotten_days": "<integer>"
+}
