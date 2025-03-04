@@ -1,0 +1,13 @@
+{
+  "name": "<string>",
+  "owner_id": "<integer>",
+  "label": "<integer>",
+  "label_ids": [
+    "<integer>",
+    "<integer>"
+  ],
+  "visible_to": "<string>",
+  "nostrud39c": -77890925,
+  "temporbb0": -93606585.52965124,
+  "consequat891": true
+}

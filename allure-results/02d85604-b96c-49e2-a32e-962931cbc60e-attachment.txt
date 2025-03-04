@@ -1,0 +1,8 @@
+{
+  "title": "<string>",
+  "assignee": "<object>",
+  "type": "<object>",
+  "expected_outcome": "<object>",
+  "duration": "<object>",
+  "interval": "<string>"
+}

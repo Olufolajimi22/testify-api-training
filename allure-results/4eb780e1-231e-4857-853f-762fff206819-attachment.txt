@@ -1,0 +1,26 @@
+{
+  "due_date": "<date>",
+  "due_time": "<string>",
+  "duration": "<string>",
+  "deal_id": "<integer>",
+  "lead_id": "<uuid>",
+  "person_id": "<integer>",
+  "project_id": "<integer>",
+  "org_id": "<integer>",
+  "location": "<string>",
+  "public_description": "<string>",
+  "note": "<string>",
+  "subject": "<string>",
+  "type": "<string>",
+  "user_id": "<integer>",
+  "participants": [
+    "<object>",
+    "<object>"
+  ],
+  "busy_flag": "<boolean>",
+  "attendees": [
+    "<object>",
+    "<object>"
+  ],
+  "done": "<number>"
+}

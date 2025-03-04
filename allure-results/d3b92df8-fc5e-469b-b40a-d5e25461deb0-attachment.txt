@@ -1,0 +1,5 @@
+{
+  "name": "<string>",
+  "icon_key": "<string>",
+  "color": "<string>"
+}

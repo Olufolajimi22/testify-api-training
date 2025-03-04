@@ -1,0 +1,13 @@
+{
+  "content": "<string>",
+  "lead_id": "<uuid>",
+  "deal_id": "<integer>",
+  "person_id": "<integer>",
+  "org_id": "<integer>",
+  "user_id": "<integer>",
+  "add_time": "<string>",
+  "pinned_to_lead_flag": "<number>",
+  "pinned_to_deal_flag": "<number>",
+  "pinned_to_organization_flag": "<number>",
+  "pinned_to_person_flag": "<number>"
+}

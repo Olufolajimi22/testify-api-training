@@ -1,0 +1,7 @@
+{
+  "name": "<string>",
+  "provider_channel_id": "<string>",
+  "avatar_url": "<url>",
+  "template_support": false,
+  "provider_type": "other"
+}

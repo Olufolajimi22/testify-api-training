@@ -1,0 +1,9 @@
+{
+  "deal_id": "<integer>",
+  "currency": "<string>",
+  "payments": [
+    "<object>",
+    "<object>"
+  ],
+  "update_deal_value": "<boolean>"
+}

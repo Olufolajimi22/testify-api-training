@@ -1,0 +1,16 @@
+{
+  "to_phone_number": "<string>",
+  "outcome": "<string>",
+  "start_time": "<dateTime>",
+  "end_time": "<dateTime>",
+  "user_id": "<integer>",
+  "activity_id": "<integer>",
+  "subject": "<string>",
+  "duration": "<string>",
+  "from_phone_number": "<string>",
+  "person_id": "<integer>",
+  "org_id": "<integer>",
+  "deal_id": "<integer>",
+  "lead_id": "<uuid>",
+  "note": "<string>"
+}

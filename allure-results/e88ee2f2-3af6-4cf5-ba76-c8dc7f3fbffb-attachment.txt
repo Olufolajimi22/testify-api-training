@@ -1,0 +1,9 @@
+{
+  "name": "<string>",
+  "manager_id": "<integer>",
+  "description": "<string>",
+  "users": [
+    "<integer>",
+    "<integer>"
+  ]
+}

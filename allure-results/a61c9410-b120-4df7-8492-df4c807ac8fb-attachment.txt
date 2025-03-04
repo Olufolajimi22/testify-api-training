@@ -1,0 +1,4 @@
+{
+  "setting_key": "<string>",
+  "value": "<integer>"
+}

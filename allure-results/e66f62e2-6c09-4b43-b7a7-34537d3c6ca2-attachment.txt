@@ -1,0 +1,6 @@
+{
+  "user_provider_id": "<uuid>",
+  "user_id": "<integer>",
+  "company_id": "<integer>",
+  "marketplace_client_id": "<string>"
+}

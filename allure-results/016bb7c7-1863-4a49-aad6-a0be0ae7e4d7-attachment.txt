@@ -1,0 +1,15 @@
+{
+  "deal_id": "<integer>",
+  "currency": "<string>",
+  "cadence_type": "<string>",
+  "start_date": "<date>",
+  "cycle_amount": "<integer>",
+  "description": "<string>",
+  "cycles_count": "<integer>",
+  "infinite": "<boolean>",
+  "payments": [
+    "<object>",
+    "<object>"
+  ],
+  "update_deal_value": "<boolean>"
+}

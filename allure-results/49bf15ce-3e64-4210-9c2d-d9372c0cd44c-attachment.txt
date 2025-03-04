@@ -1,0 +1,26 @@
+{
+  "title": "<string>",
+  "value": "<string>",
+  "label": [
+    "<integer>",
+    "<integer>"
+  ],
+  "currency": "<string>",
+  "user_id": "<integer>",
+  "person_id": "<integer>",
+  "org_id": "<integer>",
+  "pipeline_id": "<integer>",
+  "stage_id": "<integer>",
+  "status": "<string>",
+  "origin_id": "<string>",
+  "channel": "<integer>",
+  "channel_id": "<string>",
+  "add_time": "<string>",
+  "won_time": "<string>",
+  "lost_time": "<string>",
+  "close_time": "<string>",
+  "expected_close_date": "<date>",
+  "probability": "<number>",
+  "lost_reason": "<string>",
+  "visible_to": "<string>"
+}

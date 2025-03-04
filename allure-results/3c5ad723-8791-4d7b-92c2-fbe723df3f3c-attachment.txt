@@ -1,0 +1,8 @@
+{
+  "name": "<string>",
+  "field_type": "<string>",
+  "options": [
+    "<object>",
+    "<object>"
+  ]
+}

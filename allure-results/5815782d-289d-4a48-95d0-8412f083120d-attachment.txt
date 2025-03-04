@@ -1,0 +1,6 @@
+{
+  "name": "<string>",
+  "icon_key": "<string>",
+  "color": "<string>",
+  "order_nr": "<integer>"
+}
